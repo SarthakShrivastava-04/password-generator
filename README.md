@@ -1,15 +1,15 @@
-# Password Generator 🔐
+# Password Generator
 
-A simple password generator built with **React** and **Vite**.  
+## Description
+A simple password generator built with **React**, **Vite**, **JavaScript**, and **Tailwind CSS**. Customize password length and include/exclude characters like numbers, symbols, uppercase, and lowercase.
 
-## Features ✨
-- Generate strong, random passwords.
-- Customize password length and include/exclude:
-  - Uppercase letters
-  - Numbers
-  - Special characters
+---
 
-## Tech Stack 🛠
-- **React** (Frontend)
-- **Vite** (Build tool)
-- **CSS** for styling
+## Features
+- Generate secure passwords.
+- Customize length and character types.
+
+---
+
+## Preview
+![App Screenshot](./assets/password generator ss.png)
