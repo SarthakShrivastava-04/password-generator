@@ -12,4 +12,4 @@ A simple password generator built with **React**, **Vite**, **JavaScript**, and 
 ---
 
 ## Preview
-![App Screenshot](./assets/password generator ss.png)
+assets/password generator ss.png
